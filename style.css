@@ -19,14 +19,14 @@
 
     }
  h1 {
-    color: navy;
+    color: rgb(36, 36, 45);
     font-family: 'SeafordBold';
     text-align: center;
   }
 
   h2 {
     font-family: SeafordRg;
-    color: navy;
+    color: rgb(72, 72, 96);
 }
 
   p.myP{
